@@ -15,6 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+<div id="youTubePlayer1"></div><!-- 플레이어를 불러올 영역-->
+ 
+<div class="btn_play">시작</div><!-- 시작버튼-->
+<div class="btn_stop">정지</div><!-- 정지버튼-->
+<div class="btn_pause">일시정지</div> <!-- 일시정지버튼-->
+
 
 - Bulleted
 - List
