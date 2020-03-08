@@ -16,8 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 
-<a id="yg-widget-0" class="youglish-widget" data-query="great%20power" data-lang="english" data-components="8415"  rel="nofollow" href="https://youglish.com">Visit YouGlish.com</a>
-<script async src="https://youglish.com/public/emb/widget.js" charset="utf-8"></script>
+
 
 
 - Bulleted
